@@ -1,7 +1,8 @@
 {
-  "name": "oss-project",
-  "version": "0.1.0",
+  "name": "dalu-oss-project",
+  "version": "1.0.0",
   "private": false,
+  "author": "Dalu26",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -23,7 +24,6 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.11"
   },
-  "author": "Dalu26",
   "bugs": {
     "url": "https://github.com/Dalu26/oss-project#issues"
   },
